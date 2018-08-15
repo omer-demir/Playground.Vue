@@ -1,4 +1,5 @@
 import Vue, { VNode } from 'vue';
+declare module 'vue-material'
 
 declare global {
   namespace JSX {
